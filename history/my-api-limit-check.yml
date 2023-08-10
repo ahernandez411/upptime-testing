@@ -1,7 +1,7 @@
 url: https://api.github.com/rate_limit
 status: up
 code: 200
-responseTime: 137
-lastUpdated: 2023-08-10T20:39:54.666Z
+responseTime: 60
+lastUpdated: 2023-08-10T23:06:19.299Z
 startTime: Thu Aug 10 2023 20:28:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
