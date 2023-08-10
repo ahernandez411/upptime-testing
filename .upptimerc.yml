@@ -11,7 +11,7 @@ sites:
     method: POST
     headers:
     - "Content-Type": "application/json"
-    - "Authorization": "Bearer ${{ secrets.GH_PAT }}"
+    - "Authorization": "Bearer $GH_PAT"
     - "X-GitHub-Api-Version": "2022-11-28"
     expectedStatusCodes: [200]
 
