@@ -8,7 +8,7 @@ sites:
 
   - name: API Limit Check
     url: https://api.github.com/rate_limit
-    method: POST
+    method: GET
     headers:
     - "Content-Type": "application/json"
     - "Authorization": "Bearer $GH_PAT"
