@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UppTime Testing
   introTitle: "This is a test status page"
-  introMessage: Nothing special to say here. Testing to see how this works!
+  introMessage: Nothing special to say here. Testing to see how this works! Did not work last time.
   navbar:
     - title: Status
       href: /
