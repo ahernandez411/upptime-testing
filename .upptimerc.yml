@@ -13,7 +13,8 @@ sites:
     - "Content-Type": "application/json"
     - "Authorization": "Bearer $GH_PAT"
     - "X-GitHub-Api-Version": "2022-11-28"
-    expectedStatusCodes: [200]
+    expectedStatusCodes:
+    - 200
 
 
 status-website:
